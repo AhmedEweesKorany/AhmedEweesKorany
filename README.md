@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Software Engineer with ~3–4 years of experience** building and scaling **real-world web applications** across the full stack.
 
@@ -27,26 +27,26 @@ I work across **React / TypeScript / Next.js** on the frontend and **Node.js / E
 
 What I actually care about:
 
-- 🏗️ **System design & scaling** — clean architecture, caching, queues, DB design, and knowing how a toy app becomes a production system that survives traffic.
-- 🧹 **Rescuing messy codebases** — refactoring spaghetti code and vibe-coded MVPs into maintainable, tested, scalable systems.
-- ⚡ **Shipping fast without breaking things** — I use **AI as a force multiplier** (agentic coding, custom agents, delegated skills) to deliver faster, while I own every line I ship.
+-  **System design & scaling** — clean architecture, caching, queues, DB design, and knowing how a toy app becomes a production system that survives traffic.
+-  **Rescuing messy codebases** — refactoring spaghetti code and vibe-coded MVPs into maintainable, tested, scalable systems.
+-  **Shipping fast without breaking things** — I use **AI as a force multiplier** (agentic coding, custom agents, delegated skills) to deliver faster, while I own every line I ship.
 
 > I don't just write code. I take chaotic ideas → clean architecture → fast, scalable product.
 
 ---
 
-## 💎 What I Bring to the Table
+## What I Bring to the Table
 
 | | |
 |---|---|
-| 🧩 **Full-Stack Breadth** | React, Next.js, TS → Node, Nest, Laravel, FastAPI. End-to-end features, APIs, auth, payments, dashboards, real-time. |
-| 📐 **System Design Mindset** | REST / modular monoliths → microservices when needed. Postgres / MySQL / Mongo / Redis. Caching, background jobs, rate-limits, observability. |
-| 🛠️ **Refactor Specialist** | Spaghetti → structured. Vibe-coded prototype → production-ready. Dead code removal, typing, boundaries, tests, docs. |
-| 🤖 **AI-Native Delivery** | Agentic workflows that cut boilerplate, debugging, and docs time in half — more time for architecture and product. |
+|  **Full-Stack Breadth** | React, Next.js, TS → Node, Nest, Laravel, FastAPI. End-to-end features, APIs, auth, payments, dashboards, real-time. |
+|  **System Design Mindset** | REST / modular monoliths → microservices when needed. Postgres / MySQL / Mongo / Redis. Caching, background jobs, rate-limits, observability. |
+|  **Refactor Specialist** | Spaghetti → structured. Vibe-coded prototype → production-ready. Dead code removal, typing, boundaries, tests, docs. |
+|  **AI-Native Delivery** | Agentic workflows that cut boilerplate, debugging, and docs time in half — more time for architecture and product. |
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Designing **scalable backends** (NestJS / Laravel / FastAPI) with clean module boundaries
 - Building **high-performance React + Next.js** frontends
@@ -57,16 +57,16 @@ What I actually care about:
 
 ---
 
-## 🤖 AI Engineering — How I Ship 2x Faster
+##  AI Engineering — How I Ship 2x Faster
 
 I don't "ask AI for code." I run **agentic engineering workflows** where AI does the grunt work and I do the engineering.
 
 **My daily drivers:**
 
-- 🧠 **OpenCode** + **custom agents & delegated skills** — my main weapon. Task-specific agents for scaffolding, refactoring, testing, reviews, docs.
-- 🧩 **Cline** — autonomous codebase tasks, large refactors, multi-file edits
-- ⚙️ **OpenAI Codex** — architecture spikes, hard bugs, algorithm assist
-- 🌌 **Antigravity** — rapid prototyping & vibe-to-production
+-  **OpenCode** + **custom agents & delegated skills** — my main weapon. Task-specific agents for scaffolding, refactoring, testing, reviews, docs.
+-  **Cline** — autonomous codebase tasks, large refactors, multi-file edits
+-  **OpenAI Codex** — architecture spikes, hard bugs, algorithm assist
+-  **Antigravity** — rapid prototyping & vibe-to-production
 - Plus: Claude Code, Cursor, Copilot, ChatGPT where they fit best
 
 **AI helps me with:**
@@ -77,7 +77,7 @@ I don't "ask AI for code." I run **agentic engineering workflows** where AI does
 
 ---
 
-## 💻 Tech Arsenal
+##  Tech Arsenal
 
 ### Languages
 
@@ -168,9 +168,9 @@ I don't "ask AI for code." I run **agentic engineering workflows** where AI does
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
-### 🔥 Streak & Contributions
+###  Streak & Contributions
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AhmedEweesKorany&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="495" />
@@ -178,7 +178,7 @@ I don't "ask AI for code." I run **agentic engineering workflows** where AI does
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedEweesKorany&theme=tokyonight" alt="Profile Details" width="700" />
 </p>
 
-### 📈 Stats, Languages & Activity
+###  Stats, Languages & Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedEweesKorany&theme=tokyonight" alt="GitHub Stats" width="340" />
@@ -195,7 +195,7 @@ I don't "ask AI for code." I run **agentic engineering workflows** where AI does
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/AhmedEweesKorany">
@@ -219,7 +219,7 @@ I don't "ask AI for code." I run **agentic engineering workflows** where AI does
 <p align="center">
   <i>"Great software isn't just about writing code — it's about solving problems, continuously learning, and using the best tools available."</i>
   <br/><br/>
-  ⚡ <b>Spaghetti in → System out.</b> Vibe-coded MVP → Scalable product. That's what I do.
+   <b>Spaghetti in → System out.</b> Vibe-coded MVP → Scalable product. That's what I do.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
