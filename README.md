@@ -188,7 +188,6 @@ I don't "ask AI for code." I run **agentic engineering workflows** where AI does
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedEweesKorany&theme=tokyonight" alt="Most Commit Language" width="340" />
 </p>
 
-> ⚠️ **Why summary-cards instead of github-readme-stats?** The classic `github-readme-stats.vercel.app` deployment is currently paused (503) — that's why your old stats + top-langs cards showed as broken images. The cards above use `github-profile-summary-cards` + `streak-stats.demolab.com`, which are live and verified working. Once vercel unpauses the old service you can re-add it — but these look better anyway.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson" alt="dev quote" width="600" />
